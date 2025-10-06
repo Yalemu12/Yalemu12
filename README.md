@@ -1,96 +1,124 @@
-# 👋 Hey there, I'm Yonnas Alemu
+# 👋 Hey, I'm Yonnas Alemu
 
-🎓 **Computer Science Student @ Kennesaw State University**  
-💻 ** Prev Software Engineer Intern @ Nike & State Farm | AI & Cloud Enthusiast | Full Stack Developer**  
-🌍 Based in Atlanta, GA  
-
----
-
-## 🚀 About Me
-
-I’m a passionate developer who loves creating things that blend **technology, creativity, and impact** — from interactive games and cloud-based apps to AI-powered prototypes.  
-I’m always exploring how software can improve people’s experiences — whether through smarter data systems, intuitive UI design, or automation.
-
-During my time at **Nike HQ**, I contributed to projects involving **AWS Glue, DynamoDB, and AI Agentic Systems** under the MCP (Machine-Learning Compute Platform) team.  
-At **KSU**, I’ve taken on leadership and technical roles through the **Kennesaw Society of Black Computing Professionals (KSBCP)**, hosting Python workshops and building community through tech events.
-
-I believe in continuous learning, collaboration, and building things that make an impact.
+🎓 **B.S. Computer Science | Minor in Information Technology @ Kennesaw State University**  
+💻 ** Prev SWE Intern @ Nike | Former SWE Intern @ State Farm | Cloud & AI Enthusiast**  
+📍 Based in Atlanta, GA — Open to relocation  
 
 ---
 
-## 🧠 Core Skills
+## 🧭 About Me
 
-**Languages & Frameworks:**  
-Python • Java • JavaScript • TypeScript • React • Node.js • SQL • HTML • CSS  
+I’m a **Software Engineer and Computer Science student** passionate about building intelligent, scalable, and data-driven systems.  
+My journey combines hands-on software engineering experience with curiosity about AI, data automation, and cloud computing.  
 
-**Technologies & Tools:**  
-AWS (Glue, DynamoDB, S3) • Apache Spark • Hadoop • Docker • Git/GitHub • REST APIs • Three.js • WebGL • Pygame  
+I’ve had the privilege of interning with **Nike** and **State Farm**, where I developed production-level tools and automation systems leveraging **AWS, Databricks, LangChain, and Generative AI**. I also lead as **President of the Kennesaw Society of Black Computing Professionals (KSBCP)** — building community and opportunities for underrepresented computing students.  
 
-**Special Interests:**  
-- Cloud & Distributed Systems ☁️  
-- Data Engineering & Big Data Analytics 📊  
-- AI & Intelligent Agents 🤖  
-- Creative Coding (3D, Music, Interactive Media) 🎶  
+I love exploring the intersection of **AI + Software Engineering**, and I’m driven by creating projects that make development faster, smarter, and more impactful.
+
+---
+
+## 🧠 Technical Skills
+
+**Languages:** Python, Java, SQL, HTML/CSS, JavaScript  
+**Frameworks / Libraries:** Django, LangChain, PySpark, React (familiar)  
+**Tools & Platforms:** AWS (Glue, Lambda, SNS, S3), Databricks, VS Code, Vim, GitHub, DataBricks, MCP Agents  
+**Development Areas:**  
+☁️ Cloud Engineering 🤖 AI & Automation ⚙️ Backend Development 📊 Data Systems  
+
+---
+
+## 💼 Experience
+
+### 🏢 Nike Inc. — *Software Engineer Intern*  
+**June 2025 – August 2025**  
+> **AI-Based Automation: Data Quality Rules**
+
+- Developed a **Python CLI AI-Agent** integrated with VS Code to automatically generate YAML configuration files for Data Quality Rules.  
+- Built an **AI-powered assistant using LangChain** to interact with LLMs and extract data from Confluence and Box via an MCP server.  
+- Used **Databricks Claude 3.7 Sonnet Endpoint** for model inference and generative rule suggestions.  
+- Automated rule creation and validation, achieving **50% reduction in developer effort** and **80% faster test case generation**.  
+
+---
+
+### ☁️ State Farm — *Software Engineer Intern*  
+**May 2024 – August 2024**  
+> **AWS Glue Catalog Registration Project**
+
+- Created a scalable service for consistent metadata registration and lineage tracking across AWS Glue.  
+- Developed **AWS Lambda** functions using Python and **boto3** for table registration and notifications with SNS.  
+- Wrote automated tests with **pytest**, achieving **87% code coverage**.  
+- Practiced **Agile and DevOps methodologies** through sprint planning, stand-ups, and code reviews.  
+
+---
+
+### 🧩 Independent Project — *Parquet File Conversion*  
+**May 2023 – August 2023**
+
+- Enhanced PySpark code to efficiently convert datasets into **Apache Parquet** format for optimized compression and analytics.  
+- Applied **object-oriented principles** to modularize scripts, improving maintainability and reusability.  
+- Designed parameters for reusability across departments and developed comprehensive unit tests.  
+- Achieved **3rd place** in the *Secure Code Warrior Tournament*, strengthening secure coding skills.  
+
+---
+
+## 🧑🏽‍🤝‍🧑🏽 Leadership
+
+### 🖤 President — Kennesaw Society of Black Computing Professionals (KSBCP)
+**June 2024 – Present**
+- Foster a community for Black computing students to connect, learn, and grow.  
+- Lead workshops, technical events, and partnerships that empower members to explore their tech passions.  
+- Provide mentorship, internship prep sessions, and networking opportunities with industry professionals.  
 
 ---
 
 ## 🏗️ Featured Projects
 
 ### 🎮 [SnakeGamePython](https://github.com/Yalemu12/SnakeGamePython)
-A fully playable Snake game built in Python using Pygame. Demonstrates OOP principles, game loop mechanics, collision detection, and real-time score tracking.
+A fully playable **Python + Pygame** implementation of Snake with modular OOP design, score tracking, and collision logic.
 
 ### 💡 [LightSoundGame](https://github.com/Yalemu12/LightSoundGame)
-A memory and reflex game inspired by “Simon Says,” using HTML, CSS, and JavaScript to create synchronized light and sound feedback.
+A browser-based **Simon Says–style** memory game built with HTML, CSS, and JavaScript using synchronized light and sound feedback.
 
-### ⚙️ [ai-recipe-generator](https://github.com/Yalemu12/ai-recipe-generator)
-A TypeScript-based web app that uses AI to generate creative recipes based on ingredients entered by the user.
+### ⚙️ [AI Recipe Generator](https://github.com/Yalemu12/ai-recipe-generator)
+An AI-powered app built with TypeScript that creates unique recipes based on user-input ingredients.
 
-### 💻 [notesapp](https://github.com/Yalemu12/notesapp)
-A full-stack React + AWS Amplify application for taking, saving, and syncing notes securely in the cloud.
-
-### 🌐 [PortfolioWebsite](https://github.com/Yalemu12/PortfolioWebsite)
-My personal website showcasing projects, experience, and skills — built with clean design and responsive HTML/CSS structure.
+### 🗒️ [NotesApp](https://github.com/Yalemu12/notesapp)
+A **React + AWS Amplify** cloud-synced note-taking app with secure authentication and storage.
 
 ---
 
-## 🧩 What I’m Working On
-- Enhancing my **AI & Cloud portfolio** with AWS and Python-based data pipelines  
-- Experimenting with **Three.js** and **WebGL** for immersive 3D experiences  
-- Building creative coding demos that mix music, visuals, and interactivity  
+## 🧩 Certifications
+
+- 🪣 **AWS Certified Cloud Practitioner** — July 2023  
+- 🧠 **Databricks Academy Fundamentals** — June 2025  
+- 🧩 **CodePath Technical Interview Prep Certificate** — August 2024  
 
 ---
 
-## 📫 Let’s Connect
+## 🧭 Education
 
-🌐 **Portfolio:** [yonnasalemu.dev](https://yonnasalemu.dev) *(optional — add when live)*  
-💼 **LinkedIn:** [linkedin.com/in/yonnas-alemu](https://www.linkedin.com/in/yonnas-alemu)  
+**Kennesaw State University** — *Bachelor of Science, Computer Science*  
+**Minor:** Information Technology  
+📅 *Expected Graduation:* May 2026  
+
+---
+
+## 🌱 Currently Exploring
+
+- Building scalable **AI agents** for data automation using LangChain + MCP  
+- Advancing **cloud development workflows** with AWS Glue, Lambda, and CI/CD  
+- Experimenting with **creative coding & 3D visualization** using Three.js and WebGL  
+
+---
+
+## 📫 Let’s Connect!
+
+📧 **Email:** [yonnasalemu51@gmail.com](mailto:yonnasalemu51@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/yonnas12](https://www.linkedin.com/in/yonnas12)  
 💻 **GitHub:** [github.com/Yalemu12](https://github.com/Yalemu12)  
-📧 **Email:** yonnasalemu51@gmail.com
+📍 Atlanta, GA — Open to Relocation  
 
 ---
 
-## 💬 Fun Facts
+⭐ *Thanks for stopping by my profile! Check out my pinned projects below and feel free to reach out or collaborate.*
 
-- I love designing creative side projects that mix tech with art 🎨  
-- I’m the kind of person who reads about **AI agents** one minute and is debugging a **game loop** the next  
-- Favorite motto: *“Build something today that your future self will thank you for.”*
-
----
-
-⭐️ *Thanks for visiting my GitHub! Check out my pinned projects below — and feel free to reach out or collaborate.*
-
-
-<!--
-**Yalemu12/Yalemu12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
