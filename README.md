@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm Yonnas Alemu
 
 🎓 **Computer Science Student @ Kennesaw State University**  
-💻 **Software Engineer Intern @ Nike | AI & Cloud Enthusiast | Full Stack Developer**  
+💻 ** Prev Software Engineer Intern @ Nike & State Farm | AI & Cloud Enthusiast | Full Stack Developer**  
 🌍 Based in Atlanta, GA  
 
 ---
