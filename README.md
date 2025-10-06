@@ -79,8 +79,8 @@ A fully playable **Python + Pygame** implementation of Snake with modular OOP de
 ### 💡 [LightSoundGame](https://github.com/Yalemu12/LightSoundGame)
 A browser-based **Simon Says–style** memory game built with HTML, CSS, and JavaScript using synchronized light and sound feedback.
 
-### ⚙️ [AI Recipe Generator](https://github.com/Yalemu12/ai-recipe-generator)
-An AI-powered app built with TypeScript that creates unique recipes based on user-input ingredients.
+### ⚙️ [Portfolio Website](https://github.com/Yalemu12/PortfolioWebsite)
+Built from scratch using HTML, CSS, and JavaScript, this project reflects my approach to front-end development — focusing on clarity, accessibility, and design consistency
 
 ### 🗒️ [NotesApp](https://github.com/Yalemu12/notesapp)
 A **React + AWS Amplify** cloud-synced note-taking app with secure authentication and storage.
